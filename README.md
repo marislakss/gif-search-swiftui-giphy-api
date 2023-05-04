@@ -60,16 +60,23 @@ private let apiKey = "YOUR_API_KEY"
 The app uses the following dependencies, which are managed using Swift Package Manager:
 
 • SDWebImageSwiftUI: For loading and displaying GIF images
+
 • Combine: For reactive programming and handling asynchronous operations
   Architecture
+  
 
 The app follows the MVVM (Model-View-ViewModel) architecture pattern. The key components are:
 
 • Views: SwiftUI views that display the user interface.
+
 • ViewModel: Handles the business logic and data flow for the views. Communicates with the API 
+
   client and provides data for the views to display.
+  
 • APIClient: Responsible for making network requests to the Giphy API and parsing the response.
+
 • Models: Data models used to represent GIFs and API responses.
+
 
 ## Contributing
 

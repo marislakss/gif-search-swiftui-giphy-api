@@ -65,6 +65,7 @@ The app uses the following dependencies, which are managed using Swift Package M
   Architecture
   
 
+
 The app follows the MVVM (Model-View-ViewModel) architecture pattern. The key components are:
 
 • Views: SwiftUI views that display the user interface.

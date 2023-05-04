@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// MARK: - GifSearchApp
+
 @main
 struct GifSearchApp: App {
     var body: some Scene {

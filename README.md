@@ -13,7 +13,7 @@ The app displays a grid of GIFs based on the user's search query and provides a 
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/106552140/236197566-6ff7a9ba-4897-4aac-92a3-3ef4d7ab9e34.JPG" width="250" height="450"> 
+<img src="https://user-images.githubusercontent.com/106552140/236197566-6ff7a9ba-4897-4aac-92a3-3ef4d7ab9e34.JPG" width="200" height="400"> 
 
 <img src="https://user-images.githubusercontent.com/106552140/236197572-b56a2baf-23f3-4790-b726-73ffd58b534b.JPG" width="200" height="400"> 
 

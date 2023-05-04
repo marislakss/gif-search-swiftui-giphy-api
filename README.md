@@ -57,7 +57,7 @@ private let apiKey = "YOUR_API_KEY"
 
 • SDWebImage (for image loading and caching)
 
-The app uses the following dependencies, which are managed using Swift Package Manager:
+#The app uses the following dependencies, which are managed using Swift Package Manager:
 
 • SDWebImageSwiftUI: For loading and displaying GIF images
 
@@ -65,8 +65,7 @@ The app uses the following dependencies, which are managed using Swift Package M
   Architecture
   
 
-
-The app follows the MVVM (Model-View-ViewModel) architecture pattern. The key components are:
+#The app follows the MVVM (Model-View-ViewModel) architecture pattern. The key components are:
 
 • Views: SwiftUI views that display the user interface.
 

@@ -50,8 +50,11 @@ private let apiKey = "YOUR_API_KEY"
 ## Dependencies
 
 • RxSwift
+
 • RxCocoa
+
 • Alamofire (for network requests)
+
 • SDWebImage (for image loading and caching)
 
 The app uses the following dependencies, which are managed using Swift Package Manager:

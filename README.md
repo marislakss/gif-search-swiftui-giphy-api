@@ -13,9 +13,9 @@ The app displays a grid of GIFs based on the user's search query and provides a 
 
 ## Screenshots
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-07-22 at 20 11 13](https://github.com/marislakss/gif-search-swiftui-giphy-api/assets/106552140/6234f578-2a36-4a02-b947-d374eff260a4){:height="36px" width="36px"}
-![Simulator Screenshot - iPhone 14 Pro - 2023-07-22 at 20 11 34](https://github.com/marislakss/gif-search-swiftui-giphy-api/assets/106552140/f1d9ad6e-e4f5-40ec-9dcc-a685610cbcff)
-![Simulator Screenshot - iPhone 14 Pro - 2023-07-22 at 20 12 11](https://github.com/marislakss/gif-search-swiftui-giphy-api/assets/106552140/bc622e65-6c2e-4088-ae2f-9bbdab02c718)
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-22 at 20 11 13](https://github.com/marislakss/gif-search-swiftui-giphy-api/assets/106552140/5d5345fc-8cb2-450c-91f1-f2ba159ad179)
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-22 at 20 11 34](https://github.com/marislakss/gif-search-swiftui-giphy-api/assets/106552140/30680a72-bad4-4fb0-9b36-2134a49ad0e5)
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-22 at 20 12 11](https://github.com/marislakss/gif-search-swiftui-giphy-api/assets/106552140/dc5c1b04-7a04-4021-92fd-cc1f92fb1db8)
 
 ## Getting Started
 

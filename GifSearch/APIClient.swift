@@ -11,7 +11,7 @@ import Foundation
 // MARK: - APIClient
 
 class APIClient {
-    private let apiKey = "EI6YCDGHfkOiy2OOtam2nq6fHDjxK7Lm"
+    private let apiKey = "ENTER_YOUR_API_KEY_HERE"
     private let baseURL = "https://api.giphy.com/v1/gifs"
 
     /// Searches for gifs using the Giphy API.
